@@ -13,8 +13,9 @@ Este é o meu portfólio pessoal, desenvolvido para apresentar minhas habilidade
 
 O projeto está dividido nas seguintes páginas:
 
-- **Home (index.html):** Apresentação geral do portfólio e links para redes sociais.
-- **Sobre Mim (about.html):** Detalhamento sobre minha formação, experiência e objetivos profissionais.
+- **Home (index.html):** Um pouco sobre mim e alguns dos meus projetos.
+- **Sobre Mim (about.html):** Detalhamento sobre mim, com minha experiência e objetivos.
+- **Contato (contact.html):** Link para minhas redes sociais e formas de contatar-me profissionalmente
 - **CSS (style.css):** Estilização do layout e dos elementos da página.
 - **JavaScript (script.js):** Interatividade e funcionalidades no site.
 
